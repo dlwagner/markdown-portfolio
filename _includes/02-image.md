@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of scientists](https://en.wikipedia.org/wiki/File:InvestigadoresUR.JPG)
